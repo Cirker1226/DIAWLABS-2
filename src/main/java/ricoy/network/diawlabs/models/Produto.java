@@ -3,7 +3,7 @@ package ricoy.network.diawlabs.models;
 import jakarta.persistence.*;
 
 @Entity
-public class Produtos {
+public class Produto {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -1,5 +1,8 @@
 package ricoy.network.diawlabs.controllers;
 
+import ricoy.network.diawlabs.models.Produto;
+import ricoy.network.diawlabs.services.ProdutoService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
